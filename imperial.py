@@ -1,3 +1,7 @@
+# BY CHATGPT
+# CONVERTIDO DE UMA SOLUÇÃO EM C++ ENCONTRADA NA INTERNET
+# NÃO TESTADA
+
 def calcula(a, b, coratual, pos, resatual):
     if pos > n:
         return resatual
