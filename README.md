@@ -53,10 +53,10 @@ Siga os passos abaixo para executar os códigos deste repositório:
 
 Caso tenha dúvidas, sugestões ou deseje discutir as soluções, entre em contato:
 
-Pedro Luca Prates
-E-mail: pedrolucaofc@outlook.com
-LinkedIn: linkedin.com/in/pedrolucaofc
-GitHub: github.com/pedroluca
+- Pedro Luca Prates
+- E-mail: pedrolucaofc@outlook.com
+- LinkedIn: linkedin.com/in/pedrolucaofc
+- GitHub: github.com/pedroluca
 
 ---
 
