@@ -10,16 +10,16 @@ Cada arquivo neste repositório corresponde à solução de um problema específ
 
 | Arquivo         | Descrição do Problema                                 |
 |------------------|-------------------------------------------------------|
-| `acelerador.py`  | Cálculo de aceleração com base em entradas específicas. |
-| `cartas.py`      | Manipulação de cartas para atingir um objetivo definido. |
-| `chuva.py`       | Problema relacionado a previsões e medições de chuva. |
-| `codigo.py`      | Desafios envolvendo lógica de códigos.               |
-| `domino.py`      | Questões sobre montagem de peças de dominó.          |
-| `game10.py`      | Jogo lógico baseado no número 10.                    |
-| `imperial.py`    | Problema envolvendo cálculos de um império fictício. |
-| `letra.py`       | Resolução relacionada ao uso de letras e palavras.   |
-| `plano.py`       | Problemas matemáticos sobre planos cartesianos.      |
-| `tesouro.py`     | Caça ao tesouro com pistas e coordenadas.            |
+| `acelerador.py`  | Cálculo de distância percorrida por objeto e qual lançador atingiu. |
+| `cartas.py`      | Manipulação de cartas para descobrir qual o valor da oculta. |
+| `chuva.py`       | Gota de água deve escorrer para todos os caminhos possíveis. |
+| `codigo.py`      | Verificar quantas vezes o padrão '100' aparece em códigos binários. |
+| `domino.py`      | Descobrir a quantidade de peças para jogos Duplo-N. |
+| `game10.py`      | Jogo lógico baseado na quantidade mínima de movimentos pelo jogador. |
+| `imperial.py`    | Questão Calçada Imperial OBI 2019 Nível 2. |
+| `letra.py`       | Descobrir a porcentagem de palavras em uma frase que possuem a letra especificada. |
+| `plano.py`       | Problemas matemáticos sobre planos de internet.      |
+| `tesouro.py`     | Problemas matemáticos sobre quantidade de moedas para cada tripulante de navio. |
 
 ---
 
@@ -37,12 +37,15 @@ Siga os passos abaixo para executar os códigos deste repositório:
 2. Clone este repositório:  
   ```bash
   git clone https://github.com/pedroluca/resolucao-2-maratona-ifbaiano.git
+  ```
 3. Acesse o diretório do projeto:
   ```bash
   cd resolucao-2-maratona-ifbaiano
+  ```
 4. Execute o arquivo Python correspondente ao problema que deseja visualizar:
   ```bash
   python nome_do_arquivo.py
+  ```
 
 ---
 
@@ -50,9 +53,9 @@ Siga os passos abaixo para executar os códigos deste repositório:
 
 Caso tenha dúvidas, sugestões ou deseje discutir as soluções, entre em contato:
 
-Pedro Luca Prates Mendes Donato Teixeira
-E-mail: pedroluca@example.com
-LinkedIn: linkedin.com/in/pedroluca
+Pedro Luca Prates
+E-mail: pedrolucaofc@outlook.com
+LinkedIn: linkedin.com/in/pedrolucaofc
 GitHub: github.com/pedroluca
 
 ---
